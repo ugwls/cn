@@ -1,4 +1,3 @@
-theme: jekyll-theme-hacker
 # Computer Networks
 
 1. ARP
