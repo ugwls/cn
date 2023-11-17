@@ -30,3 +30,6 @@
 8. UDP echo
    - [server](./udp%20echo/server.c)
    - [client](./udp%20echo/client.c)
+
+9. NAT
+   - [NAT](./nat-practice-static-configred.pkt)
